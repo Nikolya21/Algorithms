@@ -9,3 +9,6 @@ class Solution {
         return one;
     }
 }
+
+# Space O(1)
+# Time O(n)
